@@ -825,24 +825,26 @@ textarea {
   z-index: -1;
 }
 #app-mount .userPopoutOuter-3AVBmJ .userPopoutInner-1hXSeY::before {
-  background: linear-gradient(#000000,black 60px,black);
   top: 4px;
   left: 4px;
 }
 #app-mount .userPopoutOuter-3AVBmJ .userPopoutInner-1hXSeY:not(.userProfileInnerThemedNonPremium-1gT-zY) .avatarPositionPremiumBanner-2nq2Fy {
-  background: linear-gradient(#000000,black 60px,black);
   top: 73px;
   left: 21px;
 }
 #app-mount .userPopoutOuter-3AVBmJ .userPopoutInner-1hXSeY:not(.userProfileInnerThemedNonPremium-1gT-zY) .bannerSVGWrapper-qc0szY {
-  background: linear-gradient(#000000,black 60px,black);
   margin: 2px 4px 4px 4px;
   box-sizing: border-box;
   width: calc(100% - 8px);
   min-width: unset !important;
 }
+/** Testing a fix */
+
+#app-mount .userProfileInnerThemedNonPremium-1gT-zY {
+  background: linear-gradient(black,black 60px,#480000);
+}
+
 #app-mount .userPopoutOuter-3AVBmJ .userPopoutInner-1hXSeY.userProfileInnerThemedNonPremium-1gT-zY .overlayBackground-1KgwVi {
-  background: linear-gradient(#000000,black 60px,black);
   margin: 0 8px 8px;
 }
 #app-mount .userPopoutOuter-3AVBmJ .headerNormal-T_seeN {
