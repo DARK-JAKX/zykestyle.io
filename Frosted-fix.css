@@ -842,7 +842,7 @@ textarea {
   margin: 0 8px 8px;
 }
 #app-mount .userPopoutOuter-3AVBmJ .headerNormal-T_seeN {
-  background: transparent;
+  background: cover;
 }
 #app-mount .userPopoutOuter-3AVBmJ .headerPlaying-j0WQBV {
   background: var(--gradient-50);
