@@ -831,9 +831,9 @@ textarea {
 #app-mount .userPopoutOuter-3AVBmJ .userPopoutInner-1hXSeY:not(.userProfileInnerThemedNonPremium-1gT-zY) .avatarPositionPremiumBanner-2nq2Fy {
   top: 73px;
   left: 21px;
-  background: linear-gradient(#000000,black 60px,black);
 }
 #app-mount .userPopoutOuter-3AVBmJ .userPopoutInner-1hXSeY:not(.userProfileInnerThemedNonPremium-1gT-zY) .bannerSVGWrapper-qc0szY {
+  background: linear-gradient(#000000,black 60px,black);
   margin: 2px 4px 4px 4px;
   box-sizing: border-box;
   width: calc(100% - 8px);
